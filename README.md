@@ -83,4 +83,4 @@ Usage: <class_name>.update(<\_id>, <dictionary>)
 ## Authors :black_nib:
 
 - **Edwin Bayingana** <[BayinganaEdwin](https://github.com/BayinganaEdwin)> <e.bayingana@alustudent.com>
-- **Nanen Miracle Mbanaade** <[Miranics](https://github.com/Miranics)> <nmbanaade@si.alueducation.com>
+- **Nanen Miracle Mbanaade** <[Miranics](https://github.com/Miranics)> <002nasya@gmail.com>
